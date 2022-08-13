@@ -1,0 +1,29 @@
+{
+    "pinboard": [
+        {
+            "name": "MaxBroadcasting",
+            "wants": "64x Dark Oak Wood",
+            "buysFor": "400$"
+        },
+        {
+            "name": "Kootnoo",
+            "wants": "64x Spruce Oak Wood",
+            "buysFor": "200$"
+        },
+        {
+            "name": "MaxBroadcasting",
+            "wants": "64x Dark Oak Wood",
+            "buysFor": "400$"
+        },
+        {
+            "name": "Dinnerroll",
+            "wants": "64x Dark  Jungle Wood",
+            "buysFor": "400$"
+        },
+        {
+            "name": "Jake",
+            "wants": "good time",
+            "buysFor": "69$"
+        }
+    ]
+}
